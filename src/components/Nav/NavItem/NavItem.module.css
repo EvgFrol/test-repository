@@ -1,0 +1,12 @@
+.navItem{
+	padding-top:20px;
+	
+}
+.navItem a{
+	text-decoration:none;
+	color:black;
+}
+
+.active{
+	color:white !important;
+}

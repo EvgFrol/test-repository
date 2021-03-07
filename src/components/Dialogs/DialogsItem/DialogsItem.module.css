@@ -1,0 +1,10 @@
+
+
+.dialogsItem{
+	margin-top:20px;
+	cursor:pointer;
+}
+
+.active{
+	color:white;
+}

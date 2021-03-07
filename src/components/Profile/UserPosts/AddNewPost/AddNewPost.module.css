@@ -1,0 +1,17 @@
+.addNewPostWrapper{
+	display:flex;
+	flex-direction:column;
+	width:500px;
+	margin:0 auto;
+}
+
+.addPostText{
+	width:100%;
+	height:100px;
+}
+
+.addPostButton{
+	width:100%;
+	padding:10px 20px;
+}
+

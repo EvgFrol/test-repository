@@ -1,0 +1,34 @@
+.userWrapper{
+	display:flex;
+	flex-direction:row;
+	width:100%;
+	margin-bottom:20px;
+	padding:10px;
+	border-bottom:1px solid black;
+	align-items:center;
+	
+}
+.userPhoto{
+	width:150px;
+	height:150px;
+}
+.userPhoto img{
+	width:100%;
+	height:100%;
+}
+.userInfo{
+	display:flex;
+	flex-direction:column;
+	width:100%;
+}
+.userName{
+	width:100%;
+	text-align:center;
+	font-size:25px;
+	font-weight:bold;
+}
+.userStatus{
+	width:100%;
+	text-align:center;
+	font-size:19px;
+}
