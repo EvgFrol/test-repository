@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-repository/static/css/main.5a68e79d.chunk.css",
+    "main.js": "/test-repository/static/js/main.5bcecb29.chunk.js",
+    "main.js.map": "/test-repository/static/js/main.5bcecb29.chunk.js.map",
+    "runtime-main.js": "/test-repository/static/js/runtime-main.dc97e990.js",
+    "runtime-main.js.map": "/test-repository/static/js/runtime-main.dc97e990.js.map",
+    "static/js/2.4bde8500.chunk.js": "/test-repository/static/js/2.4bde8500.chunk.js",
+    "static/js/2.4bde8500.chunk.js.map": "/test-repository/static/js/2.4bde8500.chunk.js.map",
+    "static/css/3.18bf524d.chunk.css": "/test-repository/static/css/3.18bf524d.chunk.css",
+    "static/js/3.9bc67112.chunk.js": "/test-repository/static/js/3.9bc67112.chunk.js",
+    "static/js/3.9bc67112.chunk.js.map": "/test-repository/static/js/3.9bc67112.chunk.js.map",
+    "index.html": "/test-repository/index.html",
+    "static/css/3.18bf524d.chunk.css.map": "/test-repository/static/css/3.18bf524d.chunk.css.map",
+    "static/css/main.5a68e79d.chunk.css.map": "/test-repository/static/css/main.5a68e79d.chunk.css.map",
+    "static/js/2.4bde8500.chunk.js.LICENSE.txt": "/test-repository/static/js/2.4bde8500.chunk.js.LICENSE.txt",
+    "static/media/preloader.44cef10a.svg": "/test-repository/static/media/preloader.44cef10a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc97e990.js",
+    "static/js/2.4bde8500.chunk.js",
+    "static/css/main.5a68e79d.chunk.css",
+    "static/js/main.5bcecb29.chunk.js"
+  ]
+}
